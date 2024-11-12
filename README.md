@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express.js, React,
 
 ## 📫 How to Reach Me
 
-- **Email**: [Mail To:](abeltomy3@gmail.com)
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/abel-tomy-67678931b/)
+- **Email**: [abeltomy3@gmail.com]
+- **LinkedIn**: [(https://www.linkedin.com/in/abel-tomy-67678931b/)]
 
 
 ---
