@@ -93,7 +93,7 @@ I'm a passionate **Full Stack MERN Developer** who loves crafting scalable web a
 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  *“Why do we fall? So that we can learn to pick ourselves up. — Thomas Wayne"*
 </div>
 
 <p align="center">
