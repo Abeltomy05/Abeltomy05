@@ -63,15 +63,6 @@ I'm a passionate **Full Stack MERN Developer** who loves crafting scalable web a
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abeltomy05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeltomy05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
 
 ## 🏆 Featured Projects
 
@@ -100,30 +91,6 @@ I'm a passionate **Full Stack MERN Developer** who loves crafting scalable web a
 - ☁️ Deepening AWS cloud services knowledge
 - 🤖 Integrating AI/ML capabilities into web applications
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abeltomy05&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/abel-tomy-67678931b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/abeltomy05">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:abeltomy3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/abelTomy123">
-   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
